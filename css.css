@@ -1,20 +1,28 @@
 :root {
-    --loader-bg: #ffffff;
+    --loader-bg: #ffffff !important;
   }
-  
+
+.ekDSFv{
+    background-image: linear-gradient(to top right, rgba(98, 98, 98,.7),rgba(58, 58, 58,.7)) !important;
+}
   .overlay--1aTlbi {
     background-color: #000 !important;
   }
   
   body {
-    background-color: #fff !important;
+    background-image: linear-gradient(to bottom left, rgb(49, 49, 49,.9), rgb(35, 35, 35,.9))  !important;
   }
-  
 
 .select{
-  background-color: rgba(255, 186, 81, 0.7);
-  color: #000;
-
+  background-color: rgba(255, 176, 55, 0.7) !important;
+  color: #000 !important;
 }
-  
+
+.hYPNVj{
+    text-align:center !important;
+    color: #000 !important;
+}
+  .fDXipv{
+      background-color: #FF9A00 !important;
+}
   

@@ -3,7 +3,7 @@
   }
 
 body {
-    background-color: rgba(33,33,33,.9);
+    background-color: rgba(33,33,33,.9) !important;
   }
 
 .ekDSFv{
@@ -11,29 +11,59 @@ body {
 }
 
 .ecDTED{
-    background-color: unset;
+    background-color: unset !important;
 }
 
+.cwAETT span{
+    background-image: linear-gradient(to left top,rgb(162,162,162,0.4), rgb(33,33,33,.9)) !important;
+    border-radius: 19px;
+    font-size: 13px;
+
+.cwAETT:hover > span{
+    background-color: rgba(193,193,193,.2) !important;
+}
+
+.jkgjts{
+    background-color: #FF8000 !important;
+    color: #000 !important;
+    font-size: 11px;
+}
+    
+.jeAcue:hover > span{
+    color: #000 !important;
+    background-color: #DE7000 !important;
+}
+
+.Ngifj{
+    font-size: 80% !important;
+    color: #000 !important;
+}
+
+ 
 .bnhZdU{
-    background-color: unset;
+    background-color: unset !important;
     background-image: linear-gradient(to bottom, rgb(58,58,58,.2), rgb(33,33,33,0.9)) !important;
 }
-  .overlay--1aTlbi {
+.overlay--1aTlbi {
     background-color: #000 !important;
-  }
-  
-  
+}
 
 .select{
   background-color: rgba(255, 176, 55, 0.7) !important;
   color: #000 !important;
 }
 
+.c-eyvddw-hrrhKg-cv .c-lkmCgW{
+    background-color: rgba(255, 176, 55, 0.7) !important;
+    color: #000 !important;
+}
+
 .hYPNVj{
     text-align:center !important;
     color: #000 !important;
 }
-  .fDXipv{
-      background-color: #FF9A00 !important;
+    
+.fDXipv{
+    background-color: #FF9A00 !important;
 }
   

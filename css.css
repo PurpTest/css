@@ -18,6 +18,7 @@ body {
     background-image: linear-gradient(to left top,rgb(162,162,162,0.4), rgb(33,33,33,.9)) !important;
     border-radius: 19px;
     font-size: 13px;
+}
 
 .cwAETT:hover > span{
     background-color: rgba(193,193,193,.2) !important;

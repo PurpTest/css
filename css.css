@@ -3,6 +3,26 @@
     --colors-selected: rgba(255, 128, 0) !important;
   }
 
+.hLzlHg{
+    border: 2px solid #FFA730 !important;
+    border-radius: 8px !important;
+}
+
+g{
+    stroke:rgb(255, 128, 0) !important;
+    fill: rgb(255, 128, 0) !important;
+}
+
+circle{
+    stroke: rgb(255, 128, 0) !important;
+    fill: rgb(255, 128, 0) !important;
+}
+
+.hLzlHg span{
+    color: #FFA730 !important;
+}
+
+
 body {
     background-color: rgba(33,33,33,.9) !important;
   }
@@ -53,11 +73,6 @@ body {
   background-color: rgba(255, 128, 0) !important;
 }
 
-.c-eyvddw-hrrhKg-cv .c-lkmCgW{
-    background-color: rgba(255, 176, 55, 0.7) !important;
-    color: #000 !important;
-}
-
 .hYPNVj{
     text-align:center !important;
     color: #000 !important;
@@ -66,4 +81,7 @@ body {
 .fDXipv{
     background-color: #FF9A00 !important;
 }
-  
+
+.XgIUW{
+    cursor: pointer;
+}

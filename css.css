@@ -97,6 +97,10 @@ body {
     background-color: #FF9A00 !important;
 }
 
+.cdrNiD{
+    background: #FF9A00 !important;
+}
+
 /*users list*/
 .ecXfaj{
     margin-left: unset !important;
@@ -104,6 +108,12 @@ body {
 
 .ecXfaj:hover{
     background-color: #DE7000 !important;
+    color: #C0C0C0 !important;
+}
+
+.ecXfaj:active, .ecXfaj:focus{
+    background-color: #FF8E36 !important;
+    box-shadow: inset 0 0 0 3px rgb(255, 200, 157,.8), inset 2px 0 0 2px rgb(255, 200, 157, .8) !important;
 }
 
 .jgAUwD{
@@ -113,7 +123,7 @@ body {
 
 .dcxbxm{
     margin-left: unset !important;
-    background-color: #DE7000 !important;
+    background-color: #FF8E36 !important;
 }
     
 /*Shared notes & Public chat*/
@@ -127,12 +137,18 @@ body {
 }
 
 .fmJApN:hover{
-    background-color: #DE7000 !important;
+    background-color: #FF8E36 !important;
 }
 
 /*Shared notes text and icon*/
 .bmMlEy{
     color: #000 !important;
+    background-color: #FF9A00 !important;
+}
+
+.bmMlEy:hover{
+    background-color: #FF8E36 !important;
+    color: #C0C0C0 !important;
 }
 
 .bmMlEy > i{
@@ -146,6 +162,16 @@ body {
 /*Public Chat*/
 .gXWphY{
     background: #FF9A00 !important;
+}
+
+.fxZZlA:hover{
+    background-color: #DE7000 !important;
+    color: #C0C0C0 !important;
+}
+
+.gDJBex{
+    color: #000 !important;
+    font-weight: 600 !important;
 }
 
 .fxZZlA{

@@ -1,7 +1,7 @@
 :root {
     --loader-bg: #ffffff !important;
     --colors-selected: rgba(255, 128, 0) !important;
-  }
+}
 
 /*Recording button & text*/
 .hLzlHg{
@@ -76,11 +76,6 @@ body {
     background-image: linear-gradient(to bottom, rgb(58,58,58,.2), rgb(33,33,33,0.9)) !important;
 }
 
-/**/
-.overlay--1aTlbi {
-    background-color: #000 !important;
-}
-
 /*Tools bar(Pan) selected color*/
 .select{
   background-color: rgba(255, 128, 0) !important;
@@ -88,7 +83,7 @@ body {
 
 /*Left side messages*/
 .hYPNVj{
-    text-align:center !important;
+    text-align: center !important;
     color: #000 !important;
 }
 
@@ -107,12 +102,12 @@ body {
 }
 
 .ecXfaj:hover{
-    background-color: #FF8E36 !important;
+    background-color: #FF811F !important;
     color: #FFF !important;
 }
 
 .ecXfaj:active, .ecXfaj:focus{
-    background-color: #FF8E36 !important;
+    background-color: #FF811F !important;
     box-shadow: inset 0 0 0 3px rgb(255, 200, 157,.8), inset 2px 0 0 2px rgb(255, 200, 157, .8) !important;
 }
 
@@ -123,7 +118,7 @@ body {
 
 .dcxbxm{
     margin-left: unset !important;
-    background-color: #FF8E36 !important;
+    background-color: #FF811F !important;
 }
     
 /*Shared notes & Public chat*/
@@ -137,7 +132,7 @@ body {
 }
 
 .fmJApN:hover{
-    background-color: #FF8E36 !important;
+    background-color: #FF811F !important;
 }
 
 /*Shared notes text and icon*/
@@ -147,7 +142,7 @@ body {
 }
 
 .bmMlEy:hover{
-    background-color: #FF8E36 !important;
+    background-color: #FF811F !important;
     color: #FFF !important;
 }
 
@@ -165,7 +160,7 @@ body {
 }
 
 .fxZZlA:hover{
-    background-color: #FF8E36 !important;
+    background-color: #FF811F !important;
     color: #FFF !important;
 }
 

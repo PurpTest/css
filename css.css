@@ -1,14 +1,19 @@
 /*Option: Mic OR Listen*/
+.dBWPQb{
+    background-color: #FF9A00 !important;
+}
+
+.LXDNX{
+    color: #000 !important;
+    font-weight: 600 !important;
+}
+
 .doBEMo span:first-child{
     background-color: rgb(0,0,0) !important;
 }
 
 .doBEMo i{
     color: rgb(255,255,255) !important;
-}
-
-.doBEMo i:hover{
-    color: rgb(0,0,0) !important;
 }
 
 .ilDlnX > span:hover{

@@ -1,3 +1,21 @@
+/*Option: Mic OR Listen*/
+.doBEMo span:first-child{
+    background-color: rgb(0,0,0) !important;
+}
+
+.doBEMo i{
+    color: rgb(255,255,255) !important;
+}
+
+.doBEMo i:hover{
+    color: rgb(0,0,0) !important;
+}
+
+.ilDlnX > span:hover{
+    color: #000 !important;
+}
+
+/*Root*/
 :root {
     --loader-bg: #ffffff !important;
     --colors-selected: rgba(255, 128, 0) !important;
@@ -143,7 +161,7 @@ body {
 
 .bmMlEy:hover{
     background-color: #FF811F !important;
-    color: #FFF !important;
+    color: #606060 !important;
 }
 
 .bmMlEy > i{
@@ -155,18 +173,17 @@ body {
 }
 
 /*Public Chat*/
-.gXWphY{
-    background: #FF9A00 !important;
-}
-
 .fxZZlA:hover{
     background-color: #FF811F !important;
-    color: #FFF !important;
 }
 
 .gDJBex{
     color: #000 !important;
     font-weight: 600 !important;
+}
+
+.gDJBex:hover{
+    color: #606060 !important;
 }
 
 .fxZZlA{
@@ -178,8 +195,15 @@ body {
     color: #000 !important;
 }
 
-    
+/*Shared notes and Public chat back btn*/
+.efqJUx{
+    background-color: #CB7B00 !important;
+}
 
+/*Shared notes bar bgcolor*/
+.ggzyYa{
+    background-color: #CB7B00 !important;
+}
 
 
 

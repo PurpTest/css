@@ -36,10 +36,6 @@ g{
     stroke:rgb(255, 128, 0) !important;
 }
 
-circle{
-    stroke: rgb(255, 128, 0) !important;
-}
-
 .hLzlHg span{
     color: #FFA730 !important;
 }
@@ -200,12 +196,36 @@ body {
 
 /*Shared notes and Public chat back btn*/
 .efqJUx{
-    background-color: #CB7B00 !important;
+    background-color: #FFB234 !important;
 }
 
 /*Shared notes bar bgcolor*/
 .ggzyYa{
     background-color: #CB7B00 !important;
+}
+
+
+/*Public Chat bar*/
+.cqbaVq{
+    background-color: #FFB234 !important;
+}
+
+.kTdxUd{
+    background-color: #FFB234 !important;
+    border: 2px solid #000 !important;
+}
+
+.bZoVBT{
+    background-color: #FF8000 !important;
+}
+
+.bZoVBT:focus, .buttonWrapper:focus:not([aria-disabled="true"]) .bZoVBT{
+    background-color: #DA6E01 !important;
+    box-shadow: 0 0 0 2px #DA6E01 !important;
+}
+
+.bvdkQi{
+    background: #DA6E01 !important;
 }
 
 

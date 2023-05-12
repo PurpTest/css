@@ -197,12 +197,38 @@ body {
 /*Shared notes and Public chat back btn*/
 .efqJUx{
     background-color: #FFB234 !important;
+    color: #000 !important;
+}
+
+.efqJUx:hover{
+    color: #646464 !important;
 }
 
 /*Shared notes bar bgcolor*/
 .ggzyYa{
-    background-color: #CB7B00 !important;
+    background-color: #FFB234 !important;
 }
+
+#innerdocbody{
+    background-color: #FFB234 !important;
+}
+
+.toolbar{
+    background: #FFB234 !important;
+    border-bottom: 2px solid #FFF !important;
+}
+
+.toolbar ul li a{
+    background: #FFB234 !important;
+    border-radius: 10px !important;
+}
+
+.toolbar .show-more-icon-btn{
+    color: #000 !important;
+}
+
+.bFfYZt{
+    border-bottom: #FFB234 !important;
 
 
 /*Public Chat bar*/
@@ -224,8 +250,8 @@ body {
     box-shadow: 0 0 0 2px #DA6E01 !important;
 }
 
-.bvdkQi{
-    background: #DA6E01 !important;
+.fRPNPL{
+    background: #FFB234 !important;
 }
 
 
